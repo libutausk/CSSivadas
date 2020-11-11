@@ -1,0 +1,99 @@
+		h1, h2 {
+                font-size: 40px;
+                font-weight: 400;
+                color: darkblue;
+                text-transform: uppercase;
+                letter-spacing: 10px;
+            }
+            .divFirst { 
+                background-color: bisque;
+                width: 50%;
+                height: 200px;
+                
+                
+            }
+            .divSecond {
+                background-color: #f5feee;
+                width: 50%;
+                height: 200px;
+            }
+            .divThird {
+                background-color: #eee4ee;
+                border: 5px solid black;
+                margin: 20px;
+                width: 50%;
+                height: 200px;
+                
+            }
+            .divFourth {
+                background-color: #d3e6ee;
+                border: 5px solid black;
+                margin: 20px;
+                width: 50%;
+                height: 200px;
+                box-sizing: border-box;
+            }
+            .FirstPar {
+                font-family: Verdana;
+            }
+            .FirstPar span {
+                font-family: 'Roboto', sans-serif;
+            }
+            .SecondPar {
+                font-size: 24px;
+            }
+            .SecondPar span {
+                color: #BD00FF;
+            }
+            .ThirdPar {
+                width: 40%;
+            }
+            .ThirdPar span {
+                display: block;
+            }
+            .FourthPar {
+                border: 4px solid red;
+                font-size: 30px;
+                color: rgb(255, 140, 0);
+            }
+            .FourthPar span {
+                font-size: 20px;
+            }
+            .FifthPar {
+                font-style: italic;
+            }
+            .FifthPar span {
+                font-weight: 600;
+            }
+            .SixthPar {
+                text-decoration-line: underline;
+            }
+            .SixthPar span {
+                text-decoration-line: line-through;
+            }
+            .SeventhPar {
+                line-height: 26px;
+            }
+            .SeventhPar span {
+                text-transform: uppercase;
+            }
+            .EighthPar {
+                text-indent: 30px;
+            }
+            .EighthPar span {
+                background-color: yellow;
+            }
+            .NinthPar {
+                background-color: #fff2e6;
+            }
+            .NinthPar span {
+                background-color: #fff;
+            }
+            .TenthPar {
+                font-family: monospace;
+                font-size: 30px;
+                color: #5a21e9;
+            }
+            .TenthPar span {
+                text-decoration-line: underline;
+            }
